@@ -6,56 +6,45 @@
   Hi, It's Limuel Alcovendas
 </h1>
 
+<h4 align="center">A passionate frontend developer with a love for clean UI, smooth user experiences, and building things that actually work. When I’m not coding interfaces, I’m deep into gaming worlds, whether it's fast-paced shooters, immersive RPGs, or strategy games. I believe both coding and gaming fuel creativity, problem-solving, and the joy of building something great.</h4>
+
+
+- 🔭 I’m currently working on [Inventory Management System](https://github.com/Kreid05/IMS-NewUpdated)
+
+- 🌱 I’m currently learning **how to do BACKEND DEV**
+
+- ⚡ Fun fact: **I also love reading Manhwa, Manhua, and Manga**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="pacman" width="1100" height="50" />
+</div>
+
 <div align="center">
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30" style="margin-right:10px;" /> 
-    </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="nodejs" width="40" height="40" style="margin-right:10px;" /> 
+    </a>  
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30" style="margin-right:10px;" /> 
-    </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" style="margin-right:10px;" /> 
-    </a> 
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30" style="margin-right:10px;" /> 
+      <img src="https://private-user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA5NjEwODUsIm5iZiI6MTc1MDk2MDc4NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0NDEtMWE3OTdmNDYtZWZlNC00MWU2LTllNzUtNTMwM2UxYmJjYmZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI2VDE3NTk0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlZWRlZGFlNmE2ZTMzYmE0YmE4MjVmZjFmNGQ2YjI1OGFhYzc5ZjhmYjZjZTY0Yzc1NDU5MWQzMjI1YzVlYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZPOq0KiJj7tuv70oaT_rxD0H9Jc1V_eeQ4gI2HP1qS0" width="70" height="40" style="margin-right:10px;" /> 
+    </a>
+    <a href="https://html.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA5NjEwODUsIm5iZiI6MTc1MDk2MDc4NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI2VDE3NTk0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3ZjAwZDBmOTkzYTBiMGQzNzNiNTdiNmM2YTMxYzRmYzkzNGU4Y2I0NzdmYWVlNWQwYWNkODIwOTk2MGRjZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.erbRbUjBXs3s6UOOprInGBEdT4XyzcZttx7nvWDq63c" alt="HTML" width="40" height="40" style="margin-right:10px;" /> 
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+      <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA5NjEwODUsIm5iZiI6MTc1MDk2MDc4NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI2VDE3NTk0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBiZDQ5NWMzNzIxZjA0YjQzNGU3MTkxMTc0ODk3ODM0NTQ3YTIxNGMzOGNhOWI0YzZhMzZiM2Q4ZjcxMGYyNTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lrf129gqkPMpofuzSDDFfJwc-ouY1dzkVfoiFU8keEE" alt="CSS" width="40" height="40" style="margin-right:10px;" /> 
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" style="margin-right:10px;" /> 
+      <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="70" height="30" style="margin-right:10px;" /> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="margin-right:10px;" /> 
-    </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30" style="margin-right:10px;" /> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" style="margin-right:10px;" /> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" style="margin-right:10px;" /> 
-    </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30" style="margin-right:10px;" /> 
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="40" height="40" style="margin-right:10px;" /> 
     </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" style="margin-right:10px;" /> 
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="40" height= "40" style="margin-right:10px;" /> 
     </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" style="margin-right:10px;" /> 
-    </a> 
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30" style="margin-right:10px;" /> 
-    </a> 
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30" style="margin-right:10px;" /> 
-    </a> 
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30" style="margin-right:10px;" /> 
-    </a> 
-    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="30" height="30" style="margin-right:10px;" /> 
+      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="react" width="40" height="40" style="margin-right:10px;" /> 
     </a> 
   </p>
 </div>
@@ -63,6 +52,7 @@
 ###
 
 <div align="center">
+  <h3 align="left">My Socials:</h3>
   <a href="https://www.facebook.com/kreid05" target="_blank">
     <img src="https://github.com/user-attachments/assets/1825a056-4d8c-480c-91e5-3e129ec92619" height="120" alt="facebook-logo" />
   </a>
