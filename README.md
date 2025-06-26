@@ -32,8 +32,11 @@
   <a href="https://www.facebook.com/kreid05" target="_blank">
     <img src="https://github.com/user-attachments/assets/1825a056-4d8c-480c-91e5-3e129ec92619" height="120" alt="facebook-logo" />
   </a>
-  <a href="https://www.facebook.com/kreid05" target="_blank">
+  <a href="https://www.instagram.com/limmmm.05/" target="_blank">
     <img src="https://github.com/user-attachments/assets/80ffb675-43ab-4ea6-84d7-a67912b7529d" height="120" alt="instagram-logo" />
+  </a>
+    <a href="https://www.linkedin.com/in/lim-alcovendas-8175a3364/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/bcb410f9-c5da-4f45-a26d-fe006152bb62" height="120" alt="linkedIn-logo" />
   </a>
 </div>
 
