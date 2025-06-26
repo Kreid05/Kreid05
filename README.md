@@ -38,6 +38,22 @@
     <a href="https://www.linkedin.com/in/lim-alcovendas-8175a3364/" target="_blank">
     <img src="https://github.com/user-attachments/assets/bcb410f9-c5da-4f45-a26d-fe006152bb62" height="120" alt="linkedIn-logo" />
   </a>
+  </a>
+    <a href="https://x.com/lm_lcvnds" target="_blank">
+    <img src="https://github.com/user-attachments/assets/589ac6c1-02ec-4cf1-9c69-76eb32093476vv" height="120" alt="twitter-logo" />
+  </a>
+  </a>
+    <a href="https://www.linkedin.com/in/lim-alcovendas-8175a3364/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/bcb410f9-c5da-4f45-a26d-fe006152bb62" height="120" alt="spotify-logo" />
+  </a>
+  </a>
+    <a href="https://www.linkedin.com/in/lim-alcovendas-8175a3364/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/bcb410f9-c5da-4f45-a26d-fe006152bb62" height="120" alt="tiktok-logo" />
+  </a>
+  </a>
+    <a href="https://www.linkedin.com/in/lim-alcovendas-8175a3364/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/bcb410f9-c5da-4f45-a26d-fe006152bb62" height="120" alt="youtube-logo" />
+  </a>
 </div>
 
 ###
