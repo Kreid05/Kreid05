@@ -40,19 +40,19 @@
   </a>
   </a>
     <a href="https://x.com/lm_lcvnds" target="_blank">
-    <img src="https://github.com/user-attachments/assets/589ac6c1-02ec-4cf1-9c69-76eb32093476vv" height="120" alt="twitter-logo" />
+    <img src="https://github.com/user-attachments/assets/1a415093-dca1-4ec5-b0d0-024d17481218" height="120" alt="twitter-logo" />
   </a>
   </a>
-    <a href="https://www.linkedin.com/in/lim-alcovendas-8175a3364/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/bcb410f9-c5da-4f45-a26d-fe006152bb62" height="120" alt="spotify-logo" />
+    <a href="https://open.spotify.com/user/21cwkkolofkfx5jblbcfun3pa?si=6288fab9925f45de/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/dd37cce8-422a-4e28-bd2f-f06f09b845ac" height="120" alt="spotify-logo" />
   </a>
   </a>
-    <a href="https://www.linkedin.com/in/lim-alcovendas-8175a3364/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/bcb410f9-c5da-4f45-a26d-fe006152bb62" height="120" alt="tiktok-logo" />
+    <a href="https://www.tiktok.com/@alcovendaslimuel" target="_blank">
+    <img src="https://github.com/user-attachments/assets/23ad0185-af36-4895-90fe-6e78cfa5a9f0" height="120" alt="tiktok-logo" />
   </a>
   </a>
-    <a href="https://www.linkedin.com/in/lim-alcovendas-8175a3364/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/bcb410f9-c5da-4f45-a26d-fe006152bb62" height="120" alt="youtube-logo" />
+    <a href="https://youtube.com/@kreid_0405?si=xQkg26Nh5oUVScxm" target="_blank">
+    <img src="https://github.com/user-attachments/assets/2c3fe58b-26fe-4473-b807-1b36c644bdf4" height="120" alt="youtube-logo" />
   </a>
 </div>
 
