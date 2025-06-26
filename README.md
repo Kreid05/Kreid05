@@ -1,4 +1,6 @@
-![Image](https://github.com/user-attachments/assets/cb4f81c0-7e85-490b-a37a-70f36159ef2b)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cb4f81c0-7e85-490b-a37a-70f36159ef2b" width="500" alt="Image" />
+</div>
 
 <h1 align="center">Hi, It's Limuel Alcovendas</h1>
 
@@ -46,4 +48,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-###
