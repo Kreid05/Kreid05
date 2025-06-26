@@ -39,10 +39,6 @@
     <img src="https://github.com/user-attachments/assets/bcb410f9-c5da-4f45-a26d-fe006152bb62" height="120" alt="linkedIn-logo" />
   </a>
   </a>
-    <a href="https://x.com/lm_lcvnds" target="_blank">
-    <img src="https://github.com/user-attachments/assets/1a415093-dca1-4ec5-b0d0-024d17481218" height="120" alt="twitter-logo" />
-  </a>
-  </a>
     <a href="https://open.spotify.com/user/21cwkkolofkfx5jblbcfun3pa?si=6288fab9925f45de/" target="_blank">
     <img src="https://github.com/user-attachments/assets/dd37cce8-422a-4e28-bd2f-f06f09b845ac" height="120" alt="spotify-logo" />
   </a>
