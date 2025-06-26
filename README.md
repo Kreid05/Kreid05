@@ -30,7 +30,10 @@
 
 <div align="center">
   <a href="https://www.facebook.com/kreid05" target="_blank">
-    <img src="https://github.com/user-attachments/assets/1825a056-4d8c-480c-91e5-3e129ec92619" height="100" alt="facebook-logo" />
+    <img src="https://github.com/user-attachments/assets/1825a056-4d8c-480c-91e5-3e129ec92619" height="120" alt="facebook-logo" />
+  </a>
+  <a href="https://www.facebook.com/kreid05" target="_blank">
+    <img src="https://github.com/user-attachments/assets/80ffb675-43ab-4ea6-84d7-a67912b7529d" height="120" alt="instagram-logo" />
   </a>
 </div>
 
